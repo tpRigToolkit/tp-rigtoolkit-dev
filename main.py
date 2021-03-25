@@ -21,7 +21,7 @@ def get_dcc_name():
 
 
 def get_dcc_version(dcc_name):
-    version = None
+    version = ''
     if dcc_name == 'maya':
         import maya.cmds
         version = int(maya.cmds.about(version=True))
@@ -31,7 +31,7 @@ def get_dcc_version(dcc_name):
         version = int(2000 + (math.ceil(max_version[0] / 1000.0) - 2)) if max_version[0] < 20000 else int(max_version[7])
     elif dcc_name == 'mobu':
         import pyfbsdk
-        return ''
+        version =  int(2000 + math.ceil(pyfbsdk.FBSystem().Version / 1000.0))
     elif dcc_name == 'houdini':
         import hou
         version = '.'.join(hou.applicationVersionString().split('.')[:-1])
@@ -39,6 +39,7 @@ def get_dcc_version(dcc_name):
         import unreal
         version = '.'.join(unreal.SystemLibrary.get_engine_version().split('+++')[0].split('-')[0].split('.')[:-1])
 
+    return str(version)
 
 def reload_modules():
     modules_to_reload = ('tpDcc', 'tpRigToolkit')
@@ -68,6 +69,10 @@ for dcc_deps_path in dcc_deps_paths:
     if not os.path.isdir(dcc_deps_paths):
         continue
         paths_to_add.append(dcc_deps_path)
+
+# Add here your custom paths to add to sys.path
+custom_paths = []
+paths_to_add.extend(custom_paths)
 
 for p in paths_to_add:
     if os.path.isdir(p) and p not in sys.path:
