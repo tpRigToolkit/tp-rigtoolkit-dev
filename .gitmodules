@@ -37,3 +37,66 @@
 [submodule "tpRigToolkit/tpRigToolkit-tools-musclespline"]
 	path = tpRigToolkit/tpRigToolkit-tools-musclespline
 	url = https://github.com/tpRigToolkit/tpRigToolkit-tools-musclespline.git
+[submodule "tpDcc/tpDcc-core"]
+	path = tpDcc/tpDcc-core
+	url = https://github.com/tpDcc/tpDcc-core.git
+[submodule "tpDcc/tpDcc-libs-python"]
+	path = tpDcc/tpDcc-libs-python
+	url = https://github.com/tpDcc/tpDcc-libs-python.git
+[submodule "tpDcc/tpDcc-libs-qt"]
+	path = tpDcc/tpDcc-libs-qt
+	url = https://github.com/tpDcc/tpDcc-libs-qt.git
+[submodule "tpDcc/tpDcc-dccs-maya"]
+	path = tpDcc/tpDcc-dccs-maya
+	url = https://github.com/tpDcc/tpDcc-dccs-maya.git
+[submodule "tpDcc/tpDcc-dccs-houdini"]
+	path = tpDcc/tpDcc-dccs-houdini
+	url = https://github.com/tpDcc/tpDcc-dccs-houdini.git
+[submodule "tpDcc/tpDcc-dccs-unreal"]
+	path = tpDcc/tpDcc-dccs-unreal
+	url = https://github.com/tpDcc/tpDcc-dccs-unreal.git
+[submodule "tpDcc/tpDcc-dccs-mobu"]
+	path = tpDcc/tpDcc-dccs-mobu
+	url = https://github.com/tpDcc/tpDcc-dccs-mobu.git
+[submodule "tpDcc/tpDcc-libs-curves"]
+	path = tpDcc/tpDcc-libs-curves
+	url = https://github.com/tpDcc/tpDcc-libs-curves.git
+[submodule "tpDcc/tpDcc-libs-resources"]
+	path = tpDcc/tpDcc-libs-resources
+	url = https://github.com/tpDcc/tpDcc-libs-resources.git
+[submodule "tpDcc/tpDcc-tools-unittests"]
+	path = tpDcc/tpDcc-tools-unittests
+	url = https://github.com/tpDcc/tpDcc-tools-unittests.git
+[submodule "tpDcc/tpDcc-tools-nameit"]
+	path = tpDcc/tpDcc-tools-nameit
+	url = https://github.com/tpDcc/tpDcc-tools-nameit.git
+[submodule "tpDcc/tpDcc-tools-scripteditor"]
+	path = tpDcc/tpDcc-tools-scripteditor
+	url = https://github.com/tpDcc/tpDcc-tools-scripteditor.git
+[submodule "tpDcc/tpDcc-tools-renamer"]
+	path = tpDcc/tpDcc-tools-renamer
+	url = https://github.com/tpDcc/tpDcc-tools-renamer.git
+[submodule "tpDcc/tpDcc-tools-datalibrary"]
+	path = tpDcc/tpDcc-tools-datalibrary
+	url = https://github.com/tpDcc/tpDcc-tools-datalibrary.git
+[submodule "tpDcc/tpDcc-libs-unittests"]
+	path = tpDcc/tpDcc-libs-unittests
+	url = https://github.com/tpDcc/tpDcc-libs-unittests.git
+[submodule "tpDcc/tpDcc-plugins-maya-helloworld"]
+	path = tpDcc/tpDcc-plugins-maya-helloworld
+	url = https://github.com/tpDcc/tpDcc-plugins-maya-helloworld.git
+[submodule "tpDcc/tpDcc-libs-datalibrary"]
+	path = tpDcc/tpDcc-libs-datalibrary
+	url = https://github.com/tpDcc/tpDcc-libs-datalibrary.git
+[submodule "tpDcc/tpDcc-libs-options"]
+	path = tpDcc/tpDcc-libs-options
+	url = https://github.com/tpDcc/tpDcc-libs-options.git
+[submodule "tpDcc/tpDcc-libs-nameit"]
+	path = tpDcc/tpDcc-libs-nameit
+	url = https://github.com/tpDcc/tpDcc-libs-nameit.git
+[submodule "tpDcc/tpDcc-dccs-max"]
+	path = tpDcc/tpDcc-dccs-max
+	url = https://github.com/tpDcc/tpDcc-dccs-max.git
+[submodule "tpDcc/tpDcc-config"]
+	path = tpDcc/tpDcc-config
+	url = https://github.com/tpDcc/tpDcc-config.git
