@@ -1,0 +1,39 @@
+[submodule "tpRigToolkit/tpRigToolkit-core"]
+	path = tpRigToolkit/tpRigToolkit-core
+	url = https://github.com/tpRigToolkit/tpRigToolkit-core
+[submodule "tpRigToolkit/tpRigToolkit-dccs-maya"]
+	path = tpRigToolkit/tpRigToolkit-dccs-maya
+	url = https://github.com/tpRigToolkit/tpRigToolkit-dccs-maya.git
+[submodule "tpRigToolkit/tpRigToolkit-tools-rigtoolbox"]
+	path = tpRigToolkit/tpRigToolkit-tools-rigtoolbox
+	url = https://github.com/tpRigToolkit/tpRigToolkit-tools-rigtoolbox.git
+[submodule "tpRigToolkit/tpRigToolkit-tools-controlrig"]
+	path = tpRigToolkit/tpRigToolkit-tools-controlrig
+	url = https://github.com/tpRigToolkit/tpRigToolkit-tools-controlrig.git
+[submodule "tpRigToolkit/tpRigToolkit-tools-symmesh"]
+	path = tpRigToolkit/tpRigToolkit-tools-symmesh
+	url = https://github.com/tpRigToolkit/tpRigToolkit-tools-symmesh.git
+[submodule "tpRigToolkit/tpRigToolkit-tools-interpolateit"]
+	path = tpRigToolkit/tpRigToolkit-tools-interpolateit
+	url = https://github.com/tpRigToolkit/tpRigToolkit-tools-interpolateit.git
+[submodule "tpRigToolkit/tpRigToolkit-libs-controlrig"]
+	path = tpRigToolkit/tpRigToolkit-libs-controlrig
+	url = https://github.com/tpRigToolkit/tpRigToolkit-libs-controlrig.git
+[submodule "tpRigToolkit/tpRigToolkit-tools-jointorient"]
+	path = tpRigToolkit/tpRigToolkit-tools-jointorient
+	url = https://github.com/tpRigToolkit/tpRigToolkit-tools-jointorient.git
+[submodule "tpRigToolkit/tpRigToolkit-config"]
+	path = tpRigToolkit/tpRigToolkit-config
+	url = https://github.com/tpRigToolkit/tpRigToolkit-config.git
+[submodule "tpRigToolkit/tpRigToolkit-libs-spaceswitcher"]
+	path = tpRigToolkit/tpRigToolkit-libs-spaceswitcher
+	url = https://github.com/tpRigToolkit/tpRigToolkit-libs-spaceswitcher.git
+[submodule "tpRigToolkit//tpRigToolkit/tpRigToolkit-libs-ziva"]
+	path = tpRigToolkit//tpRigToolkit/tpRigToolkit-libs-ziva
+	url = https://github.com/tpRigToolkit/tpRigToolkit-libs-ziva.git
+[submodule "tpRigToolkit/tpRigToolkit-libs-ziva"]
+	path = tpRigToolkit/tpRigToolkit-libs-ziva
+	url = https://github.com/tpRigToolkit/tpRigToolkit-libs-ziva.git
+[submodule "tpRigToolkit/tpRigToolkit-tools-musclespline"]
+	path = tpRigToolkit/tpRigToolkit-tools-musclespline
+	url = https://github.com/tpRigToolkit/tpRigToolkit-tools-musclespline.git
