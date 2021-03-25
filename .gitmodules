@@ -100,3 +100,6 @@
 [submodule "tpDcc/tpDcc-config"]
 	path = tpDcc/tpDcc-config
 	url = https://github.com/tpDcc/tpDcc-config.git
+[submodule "tpDcc/tpDcc-dccs-standalone"]
+	path = tpDcc/tpDcc-dccs-standalone
+	url = https://github.com/tpDcc/tpDcc-dccs-standalone.git
