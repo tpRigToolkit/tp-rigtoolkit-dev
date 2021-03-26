@@ -28,14 +28,14 @@ cd ..
 
 if not exist tpRigToolkit mkdir tpRigToolkit
 cd tpRigToolkit
-git clone https://github.com/tpDcc/tpRigToolkit-config.git
-git clone https://github.com/tpDcc/tpRigToolkit-core.git
-git clone https://github.com/tpDcc/tpRigToolkit-dccs-maya.git
-git clone https://github.com/tpDcc/tpRigToolkit-libs-controlrig.git
-git clone https://github.com/tpDcc/tpRigToolkit-libs-spaceswitcher.git
-git clone https://github.com/tpDcc/tpRigToolkit-libs-ziva.git
-git clone https://github.com/tpDcc/tpRigToolkit-tools-controlrig.git
-git clone https://github.com/tpDcc/tpRigToolkit-tools-interpolateit.git
-git clone https://github.com/tpDcc/tpRigToolkit-tools-musclespline.git
-git clone https://github.com/tpDcc/tpRigToolkit-tools-rigtoolbox.git
-git clone https://github.com/tpDcc/tpRigToolkit-tools-symmesh.git
+git clone https://github.com/tpRigToolkit/tpRigToolkit-config.git
+git clone https://github.com/tpRigToolkit/tpRigToolkit-core.git
+git clone https://github.com/tpRigToolkit/tpRigToolkit-dccs-maya.git
+git clone https://github.com/tpRigToolkit/tpRigToolkit-libs-controlrig.git
+git clone https://github.com/tpRigToolkit/tpRigToolkit-libs-ziva.git
+git clone https://github.com/tpRigToolkit/tpRigToolkit-libs-spaceswitcher.git
+git clone https://github.com/tpRigToolkit/tpRigToolkit-tools-controlrig.git
+git clone https://github.com/tpRigToolkit/tpRigToolkit-tools-interpolateit.git
+git clone https://github.com/tpRigToolkit/tpRigToolkit-tools-musclespline.git
+git clone https://github.com/tpRigToolkit/tpRigToolkit-tools-rigtoolbox.git
+git clone https://github.com/tpRigToolkit/tpRigToolkit-tools-symmesh.git
