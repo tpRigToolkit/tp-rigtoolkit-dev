@@ -1,0 +1,12 @@
+# tpRigToolkit
+-e ./tpRigToolkit/tpRigToolkit-config
+-e ./tpRigToolkit/tpRigToolkit-core
+-e ./tpRigToolkit/tpRigToolkit-dccs-maya
+-e ./tpRigToolkit/tpRigToolkit-libs-controlrig
+-e ./tpRigToolkit/tpRigToolkit-libs-spaceswitcher
+-e ./tpRigToolkit/tpRigToolkit-libs-ziva
+-e ./tpRigToolkit/tpRigToolkit-tools-controlrig
+-e ./tpRigToolkit/tpRigToolkit-tools-interpolateit
+-e ./tpRigToolkit/tpRigToolkit-tools-musclespline
+-e ./tpRigToolkit/tpRigToolkit-tools-rigtoolbox
+-e ./tpRigToolkit/tpRigToolkit-tools-symmesh
